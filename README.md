@@ -37,4 +37,4 @@ We don't expect extensive/fancy documentation or diagrams. A neat README.md alon
 
 This mini-assignment is designed carefully to stretch your skills beyond everyday data science tasks. The reason is: we, in the first place, are looking for great software crafts(wo)men. Being at DataChef, you need to be ready for challenges beyond boring data plumbing tasks and finding your way in understanding (sometimes vague) requirements by best finding your way around the complexities.
 
-We hope that you enjoy this challenge and will do our best to give it a fair evaluation. Good luck! 👩‍💻✌️👨‍💻
+We hope that you'll enjoy this challenge. Good luck! 👩‍💻✌️👨‍💻
